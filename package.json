@@ -1,0 +1,23 @@
+{
+  "name": "evolution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickStrauch13/evolution-sim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NickStrauch13/evolution-sim/issues"
+  },
+  "homepage": "https://github.com/NickStrauch13/evolution-sim#readme"
+}
